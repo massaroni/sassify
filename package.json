@@ -22,7 +22,7 @@
     "browserify": "6.2.0",
     "cssify": "0.6.0",
     "cssmin": "0.4.2",
-    "node-sass": "1.0.1",
+    "node-sass": "1.2.0",
     "through2": "0.6.3"
   },
   "devDependencies": {
